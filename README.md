@@ -1,4 +1,6 @@
 # This is my README
 This project is about douban featured albums
 
-[豆瓣相册 精选集]在App Store: https://itunes.apple.com/cn/app/dou-ban-xiang-ce-jing-xuan-ji/id588070942
+![ScreenShot](http://img3.douban.com/view/note/large/public/p7803711.jpg)
+
+[豆瓣相册 精选集]在App Store: http://appstore.com/豆瓣相册精选集
