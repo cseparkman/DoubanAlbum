@@ -1,5 +1,5 @@
 # DoubanAlbum
-This project is about douban featured albums
+This project is about douban featured albums, you can find so many interesting sorted photo albums.
 
 ![ScreenShot](http://img3.douban.com/view/note/large/public/p7803711.jpg)
 
