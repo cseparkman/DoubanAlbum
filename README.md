@@ -1,4 +1,4 @@
-# This is my README
+# DoubanAlbum
 This project is about douban featured albums
 
 ![ScreenShot](http://img3.douban.com/view/note/large/public/p7803711.jpg)
